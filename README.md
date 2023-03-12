@@ -20,7 +20,7 @@ The project can be used by all parties involved in the cottage building process 
 
 ## Data sources and AI methods
 
-The data sources for the model will include various factors that affect the cost of cottage construction such as location, size, materials, schedule and labor costs. The aim is to partner with various construction companies or alternatively companies that already provide technical solutions to construction companies.
+The data sources for the model will include various factors that affect the cost of cottage construction such as location, size, materials, schedule and labor costs. The aim is to partner with various construction companies or alternatively companies that already provide technical solutions to construction companies. The model could initially use linear regression to evaluate the weights for each variable.
 
 ## Challenges
 
