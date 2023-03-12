@@ -1,8 +1,8 @@
-### Cottage Construction Price Estimator
+##Summary 
 
 AI project for predicting the cost of cottage construction.
 
-## Summary
+## Cottage Construction Price Estimator
 
 The project uses machine learning to estimate the cost of constructing a cottage. The model will use various features such as location, number of floors, size, materials and schedule to provide an accurate estimate of the total cost of construction.
 
