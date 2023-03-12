@@ -1,14 +1,10 @@
-<!-- This is the markdown template for the final project of the Building AI course, 
-created by Reaktor Innovations and University of Helsinki. 
-Copy the template, paste it to your GitHub README and edit! -->
+# Cottage Construction Price Estimator
+
+AI project for predicting the cost of cottage construction.
 
 # Project Title
 
 Final project for the Building AI course
-
-## Cottage Construction Price Estimator
-
-AI project for predicting the cost of cottage construction.
 
 ## Summary
 
